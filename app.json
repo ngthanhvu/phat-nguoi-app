@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "phat-nguoi-thazhvux",
-    "slug": "phat-nguoi-thazhvux",
+    "name": "Tra cứu phạt nguội",
+    "slug": "tra-cuu-phat-nguoi",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,7 +10,7 @@
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#22c55e"
     },
     "ios": {
       "supportsTablet": true
@@ -24,6 +24,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "scheme": "datn"
   }
 }
